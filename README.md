@@ -7,7 +7,9 @@
 
 看下效果图：
 
-![enter description here][1]![enter description here][2]![enter description here][3]
+![](https://github.com/anzhuojinjie/PhotoSelector/blob/master/img/1.png)  
+![](https://github.com/anzhuojinjie/PhotoSelector/blob/master/img/2.png)  
+![](https://github.com/anzhuojinjie/PhotoSelector/blob/master/img/3.png)  
 
 # 使用方法
 
